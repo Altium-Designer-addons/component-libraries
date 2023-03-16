@@ -3,8 +3,6 @@
 ## What is it
 These are multiple libraries of components/footprints for Altium Designer, a CAD software for Electronic designers.
 
-This project is currently maintained by [Justin MASSIOT](https://justinmassiot.me), from [Zentek](http://zentek.fr).
-
 ## How to contribute
 If you want to add your contribution to our project feel free to fork the repository, commit your changes and submit a pull-request.\
 You are encouraged to read the [GitHub fork guide](https://guides.github.com/activities/forking/).
